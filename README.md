@@ -6,3 +6,5 @@ Jupyter notebooks:
 - layer_trusted - save data in parquet format
 - layer_refined - create data warehouse using delta tables
 - analytics - data analysis using Apache Sparks
+
+[More about Databricks Community Edition](https://databricks.com/blog/2016/02/17/introducing-databricks-community-edition-apache-spark-for-all.html)
