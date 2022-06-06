@@ -6,5 +6,5 @@ Jupyter notebooks:
 - layer_trusted - save data in parquet format
 - layer_refined - create data warehouse using delta tables
 - analytics - data analysis using Apache Sparks
-- configuration - settings shared by notebooks
-- utilities - toolbox with basic functions
+- includes/configuration - settings shared by notebooks
+- includes/utilities - toolbox with basic functions
